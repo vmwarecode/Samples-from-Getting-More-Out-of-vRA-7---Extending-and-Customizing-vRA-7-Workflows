@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>UTF-16</comment>
+<entry key="vso-build-nb">3310137</entry>
+<entry key="pkg-description">Example workflows and templates from "Getting More Out of vRA 7" session on Lifecycle Extensibility.</entry>
+<entry key="pkg-name">com.vmware.gmoo.vra7.eventbroker</entry>
+<entry key="used-plugins">vCAC#7.0.0,PowerShell#1.0.7,ServiceNow#1.0.1</entry>
+<entry key="pkg-signer">O=VMware,OU=Unknow,CN=vCO vra7 aa41be42-2693-4485-bd33-81caeadf509f</entry>
+<entry key="pkg-owner">O=VMware,OU=Unknow,CN=vCO vra7 aa41be42-2693-4485-bd33-81caeadf509f</entry>
+<entry key="vso-version">7.0.0.3310137</entry>
+<entry key="pkg-id">ff80808152d146ca0152f034d0160bcd</entry>
+</properties>
